@@ -415,7 +415,7 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="copyright wow zoomIn" data-wow-duration="3s">
-                            <p>© Desgin by Duy Trần 2018</p>
+                            <p>© Desgin by Thu Thúy</p>
                         </div>
                     </div>
                 </div>
